@@ -1,0 +1,209 @@
+body{
+
+    background-image: url(img/120221313858786588107.jpg);
+    background-color: cyan;
+}
+#Ulu {
+    list-style: none;
+}
+#Ulll {
+    font-size: xx-large;
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    list-style: none;
+    background: white;
+}
+#Ull{
+    background: white;
+}
+
+ul{
+    margin: 0px;
+    padding: 0px;
+    list-style: none;
+    color: #000;
+}
+ul li{
+    float: left;
+    width: 240px;
+    height: 40px;
+    background: #000;
+    opacity: 8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #000;
+
+}
+ul li a{
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    display: block;
+
+}
+ul li a:hover{
+    background: green;
+
+}
+ul li ul li {
+    display: none;
+}
+ul li:hover ul li {
+    display: block;
+}
+
+.search_area input[type="submit"]{
+height: 42px;
+width: 100px;
+text-align: center;
+border-radius: 10px;
+background-color: rgb(107, 90, 90);
+color: azure;
+}
+
+.search_area input[type="text"] {
+    height: 27px;
+    width: 176px;
+    text-align: center;
+    margin-left: 200px;
+    border-radius: 10px;
+}
+
+.search_area input[type="text"]{
+    background: transparent;
+    border: 3px solid black;
+    padding-left: 10px;
+    height: 38px;
+    width: 600px;
+    color: #333;
+    border-radius: 10px;
+    margin-top: 1px;
+
+}
+
+.search_area input[type="supmit"]{
+    background: transparent;
+    border: 0px;
+    cursor: pointer;
+    text-indent: -1000px;
+    height: 45px;
+    width: 47px;
+}
+#body1{
+    width: 1000px;
+    height: 700px;
+    margin-left: 50px;
+    
+    text-align: center;
+
+}
+
+.tab {
+    display: inline-block;
+    width: 320px;
+    height: 100px;
+    background-color: rgba(255, 0, 0, 0.337);
+    text-align: center;
+    margin-top: 80px;
+    margin-left: 100px;
+    border-radius: 10px;
+    border: 1px solid black;
+}
+.dat{
+    text-decoration: none;
+    color: rgb(255, 253, 253);
+    display: block;
+}
+.bas{
+    width: 240px;
+    height: 40px;
+    background: rgb(181, 240, 249);
+    opacity: 8;
+    line-height: 40px;
+    text-align: center;
+    font-size: 20px;
+    border: 1px solid #000;
+    border-radius:10px ;
+}
+.bas :hover{
+    background-color: rgb(22, 103, 146);
+}
+
+.sq{
+ 
+ margin-left: 50px;
+ margin-top: 20px;
+}
+.hooo{
+    width: 100px;
+    height: 30px;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+.hoo{
+    color: rgb(255, 255, 255);
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(94, 24, 47);
+    width: 150px;
+    height: 30px;
+}
+#idbod{
+    text-align: center;
+    background-image: url(img/rsz_1unnamed2.jpg);
+}
+.tableid{
+    border: 1px solid black;
+    margin-left: 300px;
+    margin-top: 50px;
+    background-color: rgba(206, 163, 163, 0.8);
+}
+.aupd{
+    text-decoration: none;
+    color: rgb(255, 250, 250);
+    border: 1px solid black;
+    background-color: rgb(24, 94, 7);
+    border-radius: 10px;
+}
+#bodyse{
+    text-align: center;
+    background-image: url(img/rsz_1unnamed2.jpg);
+}
+#forser{
+    
+    width: 800px;
+    height: 400px;
+    background-color: rgb(47, 79, 79,0.8);
+    margin-left: 300px;
+    margin-top: 100px;
+    
+}
+.searchin{
+    text-align: center;
+    width: 550px;
+    height: 40px;
+    margin-top: 140px;
+}
+.butsear{
+    text-align: center;
+    width: 80px;
+    height: 46px;
+    color: blanchedalmond;
+    background-color: darkslategray;
+}
+#idbodd{
+    background-image: url(img/rsz_1unnamed2.jpg);
+}
+.titelen{
+    color: rgb(255, 255, 255);
+}
+.titdiv{
+    margin-left: 150px;
+    width: 800px;
+    height: 40px;
+    background-color: red;
+    text-align: center;
+}
+.typcol{
+    color: rgb(0, 0, 0);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
